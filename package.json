@@ -1,0 +1,23 @@
+{
+  "name": "cypress-example",
+  "description": "An example of using cypress w/ Dynamic SDK",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesse Collier",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "@babel/preset-typescript": "^7.18.6",
+    "@cypress/webpack-preprocessor": "^5.16.1",
+    "@rsksmart/mock-web3-provider": "^1.0.2-beta1",
+    "assert": "^2.0.0",
+    "buffer": "^6.0.3",
+    "crypto-browserify": "^3.12.0",
+    "cypress": "^11.2.0",
+    "ethers": "^5.7.2",
+    "process": "^0.11.10",
+    "stream-browserify": "^3.0.0",
+    "typescript": "^4.9.4"
+  }
+}
