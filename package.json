@@ -2,7 +2,8 @@
   "name": "cypress-example",
   "description": "An example of using cypress w/ Dynamic SDK",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "cypress run",
+    "open": "cypress open"
   },
   "author": "Jesse Collier",
   "license": "MIT",
